@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Enilolade/clipboard-landing-page)
-- Live Site URL: [Link](https://your-live-site-url.com)
+- Live Site URL: [Link](https://enilolade.github.io/clipboard-landing-page/)
 
 ## My process
 
